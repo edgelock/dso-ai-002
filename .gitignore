@@ -8,3 +8,5 @@
 # Ignore variables that might have secrets
 *.tfvars
 *.tfvars.json
+# Ignore dependency lock file
+.terraform.lock.hcl
